@@ -13,7 +13,8 @@ visualize data in a clean and user-friendly way.
 - 🎨 Custom Formatting & UI Design
 
 ## 📷 Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/<img width="1919" height="1025" alt="Screenshot 2026-04-25 213849" src="https://github.com/user-attachments/assets/054b4583-04ff-4a56-8ae2-7cf81e6513b2" />
+)
 
 ## 🎯 Key Highlights / What I Achieved
 - 🖱️ Built a fully interactive dashboard with dynamic filtering
